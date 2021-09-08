@@ -1,0 +1,12 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define _ ios::sync_with_stdio(0);
+#define test() int tt;cin>>tt;for(int test=1;test<=tt;test++)
+int main(){
+_
+    test(){
+
+
+    }
+
+}

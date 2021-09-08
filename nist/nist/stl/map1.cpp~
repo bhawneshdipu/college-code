@@ -1,0 +1,29 @@
+#include<iostream>
+#include<map>
+#include<vector>
+#include<utility>
+using namespace std;
+int main(){
+int n=10;
+	map <int,int> mii;
+	for(int i=0;i<n;i++){
+		mii[i]=i*i;
+	}
+	
+	map  <int,string> :: iterator it1;
+	
+	for(it1=mii.begin();it1!=mii.end();it1++){
+		cout<<it1->first<<"  "<<it1->second<<endl;
+	}
+/*
+	map <string,int> msi;
+	for(int i=0;i<n;i++){
+		msi["hello"]=i*i;
+	}
+	
+	map <pair <int,string>,int > ::iterator it;
+	for(it=msi.begin();it!=msi.end();it++){
+		cout<<it->first<<" "<<it->first<<"  "<<it->second<<endl;
+	}
+*/
+}

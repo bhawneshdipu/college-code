@@ -1,0 +1,55 @@
+6
+3 3
+x
+y
+z
+2 1
+loooong
+tiny
+4 3
+fff
+fffff
+ff
+ffff
+5 3
+a
+hair
+box
+awesome
+hail
+8 6
+fox
+of
+xfox
+foo
+foxxx
+off
+foff
+foox
+26 15
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z

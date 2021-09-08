@@ -1,0 +1,24 @@
+vector <int>  multiply(vector <int> a,vector <int> b,int base){
+    int p=a.size();
+    int q=b.size();
+    vector <int> m(p+q,0);
+    for(int j=0;j<q;j++){
+        int carry=0;
+        print(m);
+            for(int i=1;i<=p;i++){
+                int pro=a[i-1]*b[j]+carry;
+                cout<<"pro->"<<pro<<endl;
+                print(m);
+                m[i+j]+=pro;
+                print(m);
+                carry=m[i+j]/base;
+                cout<<"carry->"<<carry<<endl;
+                m[i+j]=(m[i+j]%base);
+                print(m);
+            }
+            m[j]+=carry;
+    }
+    print(m);
+
+    return m;
+}

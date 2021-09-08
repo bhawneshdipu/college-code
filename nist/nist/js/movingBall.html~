@@ -1,0 +1,12 @@
+<html>
+	<body>
+	<applet 
+		code="MovingBall.class"
+		width=600
+		height=500
+		align=center
+	>
+	</applet>
+</body>
+</head>
+

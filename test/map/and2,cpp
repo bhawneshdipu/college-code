@@ -1,0 +1,32 @@
+#include<iostream>
+#include<bitset>
+using namespace std;
+int main(){
+    long long int t;
+    cin>>t;
+    while(t--){
+        long long int a,b;
+        cin>>a>>b;
+        bitset <64> b1(a);
+        bitset<64> b2(b);
+        bitset <64> b3;
+        int flag=0;
+        int fflag=1;
+       for(int i=31;i>=0;i--){
+            if(b1.test(i) && b2.test(i) && fflag==1){
+                b3.set(i);
+                flag=1;
+                }else if(b1.test(1)==0 && b2.test(i)==1){
+                    fflag=0;
+                    b3.reset(i);
+            }else if(b1.test(i)==1 && b2.test(i)==0){
+                 fflag=0;
+                    b3.reset(i);
+
+
+                }
+            }
+
+        cout<<b3.to_ulong()<<endl;
+    }
+}

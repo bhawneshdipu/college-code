@@ -1,0 +1,12 @@
+Case #1: ADAM  3
+BOB  2
+JOHNSON  5
+BOB  2
+ADAM  3
+JOHNSON  5
+BOB
+Case #2: A AB C  3
+DEF  3
+A AB C  3
+DEF  3
+A AB C
