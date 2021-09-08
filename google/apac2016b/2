@@ -1,0 +1,61 @@
+INSERT INTO user_table ( f_name, l_name, user_name, user_pass,
+user_email, user_nist_id, user_pin, mobile, user_account_type,
+user_gender,guide_id,user_priority) VALUES
+('Hello','World','hello12','1234','nist13@gmail.com','201316013','1234','7205772013','teacher','male','3','6');
+
+INSERT INTO user_table ( f_name, l_name, user_name, user_pass,
+user_email, user_nist_id, user_pin, mobile, user_account_type,
+user_gender,guide_id,user_priority) VALUES
+('Pancham','chandra','hello13','1234','nisst14@gmail.com','201316014','1234','7205772014','student guide','male','3','3');
+
+INSERT INTO user_table ( f_name, l_name, user_name, user_pass,
+user_email, user_nist_id, user_pin, mobile, user_account_type,
+user_gender,guide_id,user_priority) VALUES
+('Panchu','avndra','hello14','1234','nist15@gmail.com','201316015','1234','7205772015','student','male','2','1');
+
+INSERT INTO user_table ( f_name, l_name, user_name, user_pass,
+user_email, user_nist_id, user_pin, mobile, user_account_type,
+user_gender,guide_id,user_priority) VALUES
+('Panchama','achandra','hello15','1234','nist16@gmail.com','201316016','1234','7205772016','student','male','2','1');
+
+INSERT INTO user_table ( f_name, l_name, user_name, user_pass,
+user_email, user_nist_id, user_pin, mobile, user_account_type,
+user_gender,guide_id,user_priority) VALUES
+('Pancdhama','achandrda','hello16','1234','nist17@gmail.com','201316017','1234','7205772017','student','male','2','1');
+
+INSERT INTO user_table ( f_name, l_name, user_name, user_pass,
+user_email, user_nist_id, user_pin, mobile, user_account_type,
+user_gender,guide_id,user_priority) VALUES
+('Panchasdma','achansddra','hello17','1234','nist18@gmail.com','201316018','1234','7205772018','student','male','2','1');
+
+INSERT INTO user_table ( f_name, l_name, user_name, user_pass,
+user_email, user_nist_id, user_pin, mobile, user_account_type,
+user_gender,guide_id,user_priority) VALUES
+('Panchasdma','achansddra','hello18','1234','nist19@gmail.com','201316019','1234','7205772019','student','male','2','1');
+
+INSERT INTO user_table ( f_name, l_name, user_name, user_pass,
+user_email, user_nist_id, user_pin, mobile, user_account_type,
+user_gender,guide_id,user_priority) VALUES
+('dipumal','achanhsddra','hello19','1234','nist20@gmail.com','201316020','1234','7205772020','student','male','2','1');
+
+INSERT INTO user_table ( f_name, l_name, user_name, user_pass,
+user_email, user_nist_id, user_pin, mobile, user_account_type,
+user_gender,guide_id,user_priority) VALUES
+('rahulpumal','raj','hello20','1234','nist21@gmail.com','201316021','1234','7205772021','student','male','2','1');
+
+INSERT INTO user_table ( f_name, l_name, user_name, user_pass,
+user_email, user_nist_id, user_pin, mobile, user_account_type,
+user_gender,guide_id,user_priority) VALUES
+('rahulpul','rajh','hello21','1234','nist22@gmail.com','201316022','1234','7205772022','student','male','2','1');
+
+INSERT INTO user_table ( f_name, l_name, user_name, user_pass,
+user_email, user_nist_id, user_pin, mobile, user_account_type,
+user_gender,guide_id,user_priority) VALUES
+('rahula','rah','hello22','1234','nist23@gmail.com','201316023','1234','7205772023','student','male','2','1');
+
+INSERT INTO user_table ( f_name, l_name, user_name, user_pass,
+user_email, user_nist_id, user_pin, mobile, user_account_type,
+user_gender,guide_id,user_priority) VALUES
+('rahulaJ','rahA','hello23','1234','nist24@gmail.com','201316024','1234','7205772024','student','male','2','1');
+
+
